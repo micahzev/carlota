@@ -3776,7 +3776,7 @@ inferno-vnode-flags@5.3.0:
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/inferno-vnode-flags/-/inferno-vnode-flags-5.3.0.tgz#930285ebfcd87b347021cc241dccc2ccb2d85332"
 
-inferno@5.3.0:
+inferno@^5.3.0:
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/inferno/-/inferno-5.3.0.tgz#592e0b09d4ba85bc66880b7c097a8445b43fec8f"
   dependencies:
