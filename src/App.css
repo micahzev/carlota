@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.callingCard {
+  width: 100%;
+  max-height: 100%
+}
+
+.heading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 1rem;
+  font-family: 'Amarante-Regular';
+  max-width: 25vw;
+  font-size: 10vw;
+}
+
+@font-face {
+  font-family: 'Amarante-Regular';
+  src: local('Amarante-Refgular'),
+       url(./fonts/Amarante-Regular.eot)  format('embedded-opentype'),
+       url(./fonts/Amarante-Regular.woff2)  format('woff2'),
+       url(./fonts/Amarante-Regular.woff)  format('woff'),
+       url(./fonts/Amarante-Regular.ttf)  format('truetype'),
+       url(./fonts/Amarante-Regular.svg)  format('svg');
+}
